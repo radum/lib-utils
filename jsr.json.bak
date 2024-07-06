@@ -1,0 +1,9 @@
+{
+	"name": "@radum/lib-utils",
+	"version": "0.1.0",
+	"exports": {
+		"./libs": "./libs/*",
+		"./utils": "./utils/*",
+		"./utils/dom": "./utils/dom/*"
+	}
+}
