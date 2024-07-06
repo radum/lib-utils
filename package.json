@@ -1,0 +1,23 @@
+{
+  "name": "lib-utils",
+  "version": "0.1.0",
+  "description": "Utils and Libs that you could use on any project",
+  "module": "true",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radum/lib-utils.git"
+  },
+  "keywords": [
+    "util",
+    "lib"
+  ],
+  "author": "Radu Micu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radum/lib-utils/issues"
+  },
+  "homepage": "https://github.com/radum/lib-utils#readme"
+}
