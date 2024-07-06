@@ -1,0 +1,13 @@
+{
+  "name": "@radum/lib-utils",
+  "version": "0.1.0",
+  "exports": {
+    "./utils/dom/is.js": "./utils/dom/is.js",
+    "./utils/dom/is-editable-element.js": "./utils/dom/is-editable-element.js",
+    "./utils/dom/env.js": "./utils/dom/env.js",
+    "./utils/dom/is-hidden-element.js": "./utils/dom/is-hidden-element.js",
+    "./utils/dom/is-overflow-element.js": "./utils/dom/is-overflow-element.js",
+    "./package.json": "./package.json"
+  },
+  "imports": {}
+}
